@@ -1,0 +1,137 @@
+.container {
+	background-color: lightblue;
+	padding-left: 20px;
+}
+
+body {background-color: lightblue;
+color: black;
+}
+
+p{color: blue;
+margin: 35px;
+
+}
+h3{color: red;
+margin: 35px;
+
+}
+
+
+
+h1{ text-align: center;
+margin: 35px;
+}
+
+.cleanslate { 
+background-color: lightblue
+}
+
+
+
+
+
+footer { 	background: lightblue;
+            height: 50px;
+            clear:both;
+			margin-left: 30px;
+          
+		  
+		  
+		  }
+
+
+.nav-bar {
+text-align: center;
+overflow: hidden;
+box-shadow: 2px 1px;
+    border: 3px solid;
+    border-radius: 20px;
+}
+
+.nav-bar a {
+text-align: center;
+display: inline-block;
+padding: 15px 13px;
+text-decoration: none;
+    font-family: "Copperplate";
+        color: black;
+}
+
+a:hover {
+background-color: #00ced1;
+}
+
+a.active {
+background-color: #00ced1;
+
+}
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: pre;
+    font-size: initial;
+    font-family: arial;
+    tab-size: 4;
+    border-spacing: 12px;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+element.style {
+}
+table {
+  border-collapse: collapse;
+  
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+table {
+    font-size: 100%;
+    padding: 2.5%;
+    border-collapse: collapse;
+    margin-left: 2.5%;
+	margin-right: 2.5%;
+	width: 50%;
+}
+
+
+/* For mobile phones: */
+[class*="col-"] {
+width: 100%;
+}
+
+/*tabellen*/
+
+   
+
+
+
+.contact_table {
+    margin-left: 8%;
+}
+
+.table_text {
+	width: 95%;
+}
+
+.table_text th {
+    width: fit-content;
+    padding: 0.5%;
+    font-size: 90%;
+    border: 2px solid black;
+    color: black;
+}
+
+.table_text td {
+    width: fit-content;
+    padding: 0.5%;
+    font-size: 90%;
+    border: 2px solid black;
+    color: black;
+}
+
+
